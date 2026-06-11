@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "224c862b4c8850ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "004fcf2ad649fbde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b065b304988d8249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/ACP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACP"
+            }
+          },
+          {
+            "id": "7e75923959d1236c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queeee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queeee"
+            }
+          },
+          {
+            "id": "274e70e2ca13b6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holiiiwi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Holiiiwi"
+            }
+          },
+          {
+            "id": "b9e99754abaffe14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queueue esto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queueue esto"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d94f91d97756a8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "212bb0ab3a4695ea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "5275900e2714ee9a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "35369f38c7181a3c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "38d51cdc3f473bd9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "e593fbd612e42adc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a4df4c84f1914d11",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dcbefc43e6345372",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Queueue esto.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "e1402affb625c273",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Queueue esto.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "1c36113d7ecb257b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Queueue esto.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "b9e99754abaffe14",
+  "lastOpenFiles": [
+    "Holiiiwi.md",
+    "Queueue esto.md",
+    "Queeee.md",
+    "Universidad/ACP.md",
+    "Sinaz.md",
+    "Projects",
+    "sync.sh",
+    "Data learning",
+    "Universidad"
+  ]
+}

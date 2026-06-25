@@ -1,1 +1,7 @@
-{}
+{
+  "baseFontSize": 14,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "floatingNavigation": true,
+  "cssTheme": "Obsidianite"
+}

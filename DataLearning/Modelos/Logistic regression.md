@@ -1,0 +1,1 @@
+Se uso para clasificar si un objetivo era roca o mina de acuerdo a su ubicación es un hiperplano

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be4bffe713609ecc",
+        "id": "12f9c98779b3bbc1",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6e6330f7bc74f6",
+            "id": "379d360e6170f359",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sexto semestre/EDM/Estadística Descriptiva Multivariada Teoría ACS P3.pdf"
+                "file": "Séptimo semestre/Analisis multivariado/P1 AM.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Estadística Descriptiva Multivariada Teoría ACS P3"
+              "title": "P1 AM"
             }
           }
         ]
@@ -35,7 +35,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de archivos"
@@ -143,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sexto semestre/EDM/Estadística Descriptiva Multivariada Teoría ACS P3.pdf",
+            "file": "Séptimo semestre/Bayesiana/P1.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,37 +170,47 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "bd6e6330f7bc74f6",
+  "active": "379d360e6170f359",
   "lastOpenFiles": [
-    "Sexto semestre/EDM/Estadística Descriptiva Multivariada Teoría ACM P3.pdf",
-    "Data Science/DataReadings/Machine learning with Scikit and pytorch Sebastian Liu/Machine learning with Scikit learn and pytorch Sebastian Liu.pdf",
-    "Data Science/DataReadings/Machine learning with Scikit and pytorch Sebastian Liu/C3.md",
+    "Séptimo semestre/Electivas/Electivas.md",
+    "Séptimo semestre/Analisis multivariado/P1 AM.pdf",
+    "Séptimo semestre/Bayesiana/P1 EB.pdf",
+    "El plan.md",
+    "Séptimo semestre/Electivas",
+    "Séptimo semestre/Bayesiana/P2.pdf",
+    "2026-09-03.md",
+    "Sexto semestre/Series de tiempo/interpretacion_graficas.pdf",
+    "Sexto semestre/Series de tiempo/Modelos teoría avanzada.pdf",
+    "Sexto semestre/Series de tiempo/Screenshot_20260725-185505.png",
+    "Sexto semestre/EDM/EjeClase ACS P3.pdf",
+    "Séptimo semestre/Analisis multivariado/P3 AM.pdf",
+    "Séptimo semestre/Analisis multivariado/P2 AM.pdf",
+    "Séptimo semestre/Bayesiana",
     "Data Science/DataReadings/Machine learning with Scikit and pytorch Sebastian Liu/C1 Giving Computers the Ability to Learn from Data.md",
+    "Data Science/DataCourses/IBM Data Science/C1.md",
+    "Data Science/DataCourses/Data engineering Deep Learning AI/Introduction to Data Engineering.md",
+    "Screenshot_20260806-154044.png",
+    "Screenshot_20260806-152202.png",
+    "Screenshot_20260806-152124.png",
+    "Sexto semestre/Series de tiempo/ARFIMA.md",
+    "Sexto semestre/Series de tiempo/Series si.md",
+    "Sexto semestre/EDM/Preguntas parcial 3.md",
+    "Sexto semestre/Series de tiempo/Informe final - SyP500.md",
+    "6 de junio.md",
+    "Data Science/DataReadings/Machine learning with Scikit and pytorch Sebastian Liu/C3.md",
     "IMG-20260624-WA0026.jpg",
-    "Sexto semestre/EDM/Estadística Descriptiva Multivariada Teoría ACS P3.pdf",
     "Data Science/DataCourses/Data analytics advanced/Modulo 1.md",
-    "Sexto semestre/EDM/Estadística Descriptiva Multivariada EjeClase ACS P3.pdf",
-    "Data Science/DataReadings/Grokking Deep Learning",
-    "Data Science/DataCourses/Data analytics advanced",
-    "Data Science/DataCourses",
     "Sexto semestre/EDM/ACP Parcial.md",
-    "Sexto semestre/Series de tiempo/Parcial 2.md",
-    "Data Science",
-    "Data Science/DataReadings/Machine learning with Scikit and pytorch Sebastian Liu",
     "DataLearning/Books/C.1 Giving Computers the Ability to Learn from Data.ipynb.md",
     "DataLearning/Modelos/Logistic regression.md",
     "2026-06-25.md",
     "Projects/Predicción syp 500.md",
-    "Sin título.base",
     "Excalidraw/Drawing 2026-06-25 01.24.35.excalidraw.md",
     "DataLearning/Books/Drawing 2026-06-25 01.19.43.excalidraw.md",
     "DataLearning/Books/este.md",
     "DataLearning/Books/Python and Scikit learn.md",
     "Universidad/ACP.md",
     "Data learning/Pytorch and Scikit learn.md",
-    "Queueue esto.md",
-    "Holiiiwi.md",
-    "Queeee.md",
-    "Sinaz.md"
+    "Queueue esto.md"
   ]
 }
